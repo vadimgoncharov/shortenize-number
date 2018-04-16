@@ -1,0 +1,23 @@
+{
+  "name": "shortenize-number",
+  "version": "1.0.0",
+  "description": "Format big numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimgoncharov/shortenize-number.git"
+  },
+  "author": "Vadim Goncharov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadimgoncharov/shortenize-number/issues"
+  },
+  "homepage": "https://github.com/vadimgoncharov/shortenize-number#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
